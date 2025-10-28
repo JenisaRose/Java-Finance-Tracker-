@@ -1,6 +1,5 @@
 # Java-Finance-Tracker-
 A tool for all your finance calculations and management. 
-A tool for all your finance calculations and management
 
 ----> Uses a dedicated Transaction class to model financial data.
 
